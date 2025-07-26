@@ -1,2 +1,7 @@
+<<<<<<< HEAD
  welcome to file1 of dev branch line_1
  welcome to file1 of dev branch line_2
+=======
+welcome to file1 in feature-201 sub_branch of dev branch
+this is second line of file1 file
+>>>>>>> feature-201
